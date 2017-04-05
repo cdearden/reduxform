@@ -6,8 +6,6 @@
 
 1. [Development](#development)
     1. [Getting Started](#installing-dependencies)
-1. [Contributing](#contributing)
-
 
 ## Development
 
@@ -18,20 +16,11 @@ From within the root directory:
 ```sh
 npm install
 ```
-The following will watch the source files for changes:
+The following will build and watch the source files for changes:
 ```sh
 npm run build
 ```
-In a new terminal window run
+In a new terminal window start live-server with 
 ```sh
 npm run start
 ```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
